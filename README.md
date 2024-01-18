@@ -73,7 +73,7 @@ mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+923184474176`](https://wa.me/923184474176)
+- If any problem, then [`+919775615989`](https://wa.me/919775615989)
 
 
 ### Thanks To
