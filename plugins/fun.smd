@@ -1,34 +1,34 @@
 /**
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
-//                                                                                                      // 
-//                                         Ｖ：１．０．１                                                // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
-//                                                                                                      //
+//                                                                                                      //
+//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                      //
+//                                                                                                      // 
+//                                         Ｖ：１．０．１                                                 // 
+//                                                                                                      // 
+//               ______          __     ____  _      __         __  _______                             //
+//              / ____/___  ____/ /__  / __ \(_)____/ /__      /  |/  / __ \                            //
+//             / /   / __ \/ __  / _ \/ /_/ / / ___/ //_/_____/ /|_/ / / / /                            //
+//            / /___/ /_/ / /_/ /  __/ _, _/ / /__/ ,< /_____/ /  / / /_/ /                             //
+//            \____/\____/\__,_/\___/_/ |_/_/\___/_/|_|     /_/  /_/_____/                              //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
+//                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
-   * @version 1.2.7
+   * @project_name : CodeRick-MD 
+   * @author : CodeRick
+   * @youtube : https://www.youtube.com/c/@CodeRick
+   * @description : CodeRick-MD ,A Multi-functional whatsapp user bot.
+   * @version 1.2.7
 *
-   * Licensed under the  GPL-3.0 License;
+   * Licensed under the  GPL-3.0 License;
 * 
-   * Created By Suhail Tech Info.
-   * © 2023 Suhail-Md.
+   * Created By CodeRick.
+   * © 2024 CodeRick-MD.
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -38,7 +38,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
    * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
    * SOFTWARE.
  **/
-let Suhail = "huh"
+let CodeRick = "huh"
 
 
 
